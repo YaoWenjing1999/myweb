@@ -1,0 +1,9 @@
+<h2>与琰书</h2>
+<p dir="ltr">近日多梦，常夜不能寐。<br>
+  偌大之山，独我一人，唯孤坟相伴，尚可念。</p>
+<p dir="ltr">今琅琊未变，我亦未变，屡屡相思。<br>
+  缘起缘灭，皆因你，知否？晓否？</p>
+<p dir="ltr">海晏河清，仅你未归，或我未去。<br>
+  思量二三，甚是牵挂。</p>
+<p dir="ltr">便弃潇洒，寻你。</p>
+<img src="file:///C|/Users/cc/Desktop/L1IyejI0VzdXaDhkYnhLL2pRTFhNN1Y4R1phOTZoV21nTm9VQXJwaTAvSGdLdUViV01ZSjRRPT0.jpg" width="500" height="667" />
