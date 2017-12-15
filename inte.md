@@ -6,4 +6,4 @@
 <p dir="ltr">海晏河清，仅你未归，或我未去。<br>
   思量二三，甚是牵挂。</p>
 <p dir="ltr">便弃潇洒，寻你。</p>
-<img src="file:///C|/Users/cc/Desktop/L1IyejI0VzdXaDhkYnhLL2pRTFhNN1Y4R1phOTZoV21nTm9VQXJwaTAvSGdLdUViV01ZSjRRPT0.jpg" width="500" height="667" />
+<p><img src="file:///C|/Users/cc/Documents/未命名站点 2/yys.jpg" width="500" height="667" /><img src="file:///C|/Users/cc/Documents/未命名站点 2/lj.jpg" width="500" height="500" /></p>
